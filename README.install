@@ -1,0 +1,2 @@
+cabal install gtk2hs-buildtools 
+ -needed before cabal install gtk
