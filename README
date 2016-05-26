@@ -12,3 +12,17 @@ This will automatically connect to a mpd server for grading/testing.
 
 Navigate your web-browser to http://lenore.kedki.me:8000 to listen to the
 resulting http stream of music.
+
+Use:
+  When booted up, Poseidon displays two panels. The left one represents the
+  current playlist, and the right one the entire music library.
+
+  Use the add button on the far right to add songs from the library to the
+  playlist.
+
+  Use the filter, nub, and remove buttons on the far left to remove songs from
+  the playlist. 
+
+  Use the "By <x>" checkboxes in the middle to choose whether the above
+  operations work only on the song selected, or on all songs that are in the
+  same artist, or album, etc. 
