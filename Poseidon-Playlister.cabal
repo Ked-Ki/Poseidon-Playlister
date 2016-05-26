@@ -12,7 +12,7 @@ maintainer:          kevin.m.freese@gmail.com
 -- copyright:           
 category:            Sound
 build-type:          Simple
-extra-source-files:  src/gtk/poseidon_mpd_gtk_front.glade
+extra-source-files:  poseidon_front.glade, README
 
 cabal-version:       >=1.10
 

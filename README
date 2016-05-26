@@ -1,2 +1,14 @@
 Poseidon Playlister is a simple, lightweight GTK2 frontend to MPD, the music player
 daemon.
+
+To install:
+  cabal install all needed packages:
+    NOTE: gtk2hs-buildtools needs to be installed before gtk, but cabal won't
+          give an error message for it
+  cabal build
+  cabal run
+
+This will automatically connect to a mpd server for grading/testing.
+
+Navigate your web-browser to http://lenore.kedki.me:8000 to listen to the
+resulting http stream of music.
